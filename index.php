@@ -143,7 +143,7 @@
 
 
 <!-- Start Latest Article Section -->
-<section class="article-section" style="padding-top: 45px;">
+<section class="article-section">
 	<div class="container">
 		<div class="row">
 			<div class="col-md-8 a-left-items">
@@ -208,6 +208,35 @@
 						</a>
 					</div>
 
+					<div class="col-md-12 pagination-section">
+						<div class="row">
+							<div class="col-md-8">
+								<nav aria-label="Page navigation example">
+								  <ul class="pagination">
+								    <li class="page-item">
+								      <a class="page-link" href="#" aria-label="Previous">
+								        <span aria-hidden="true">&laquo;</span>
+								        <span class="sr-only">Previous</span>
+								      </a>
+								    </li>
+								    <li class="page-item"><a class="page-link" href="#">1</a></li>
+								    <li class="page-item"><a class="page-link" href="#">2</a></li>
+								    <li class="page-item"><a class="page-link" href="#">...</a></li>
+								    <li class="page-item"><a class="page-link" href="#">25</a></li>
+								    <li class="page-item">
+								      <a class="page-link" href="#" aria-label="Next">
+								        <span aria-hidden="true">&raquo;</span>
+								        <span class="sr-only">Next</span>
+								      </a>
+								    </li>
+								  </ul>
+								</nav>
+							</div>
+							<div class="col-md-4 page">
+								<p>page 1 of 25</p>
+							</div>
+						</div>
+					</div>
 				</div>
 			</div>
 			<!-- Left Items End -->
