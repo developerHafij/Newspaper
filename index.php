@@ -96,20 +96,22 @@
 			<div class="col-md-4">
 				<div class="emp-right-items">
 					<div class="emp-social">
-						<div class="emp-fb emp-soci">
-							<div class="fa fa-facebook"></div>
-							<p class="emp-social-count cnt">2,5623</p>
-							<p class="emp-social-name nm">Fan</p>
-						</div>
+						<a href="">
+							<div class="emp-fb emp-soci">
+								<div class="fa fa-facebook"></div>
+								<!-- <p class="emp-social-count cnt">2,5623</p>
+								<p class="emp-social-name nm">Fan</p> -->
+							</div>
+						</a>
 						<div class="emp-tw emp-soci">
-							<div class="fa fa-twitter"></div>
+							<div class="fa fa-twitter"></div><!-- 
 							<p class="emp-social-count cnt">2,5623</p>
-							<p class="emp-social-name nm">Followers</p>
+							<p class="emp-social-name nm">Followers</p> -->
 						</div>
 						<div class="emp-yt emp-soci">
-							<div class="fa fa-youtube"></div>
+							<div class="fa fa-youtube"></div><!-- 
 							<p class="emp-social-count cnt">1,574</p>
-							<p class="emp-social-name nm">Subscribers</p>
+							<p class="emp-social-name nm">Subscribers</p> -->
 						</div>
 					</div>
 
@@ -129,13 +131,88 @@
 								<span>MARCH 19, 2020</span>
 							</div>
 						</div>
-
+					</div>
+					<div class="facts-details">
+						<div class="facts-de-item1 facts-de">
+							<div class="facts-de-img">
+								<a href=""><img src="images/1-696x464.jpg" width="95px;" title="Your Questions About Life Under Coronavirus Answered Here"></a>
+							</div>
+							<div class="facts-right">
+								<h6>Your Questions About Life Under Coronavirus Answered Here</h6>
+								<span>MARCH 19, 2020</span>
+							</div>
+						</div>
+					</div>
+					<div class="facts-details">
+						<div class="facts-de-item1 facts-de">
+							<div class="facts-de-img">
+								<a href=""><img src="images/2-696x464.jpg" width="95px;" title="Find Out How Many Confirmed Cases Are in Your Area Right Now?"></a>
+							</div>
+							<div class="facts-right">
+								<h6>Find Out How Many Confirmed Cases Are in Your Area Right Now?</h6>
+								<span>MARCH 19, 2020</span>
+							</div>
+						</div>
+					</div>
+					<div class="facts-details">
+						<div class="facts-de-item1 facts-de">
+							<div class="facts-de-img">
+								<a href=""><img src="images/29-696x464.jpg" width="95px;" title="The Coronavirus Epidemic Might Be Much Worse Than We Thought"></a>
+							</div>
+							<div class="facts-right">
+								<h6>The Coronavirus Epidemic Might Be Much Worse Than We Thought</h6>
+								<span>MARCH 19, 2020</span>
+							</div>
+						</div>
+					</div>
+					<div class="facts-details">
+						<div class="facts-de-item1 facts-de">
+							<div class="facts-de-img">
+								<a href=""><img src="images/5-696x464.jpg" width="95px;" title="Find Out How Many Confirmed Cases Are in Your Area Right Now?"></a>
+							</div>
+							<div class="facts-right">
+								<h6>Find Out How Many Confirmed Cases Are in Your Area Right Now?</h6>
+								<span>MARCH 19, 2020</span>
+							</div>
+						</div>
+					</div>
+					<div class="facts-details">
+						<div class="facts-de-item1 facts-de">
+							<div class="facts-de-img">
+								<a href=""><img src="images/54-696x464.jpg" width="95px;" title="The Coronavirus Epidemic Might Be Much Worse Than We Thought"></a>
+							</div>
+							<div class="facts-right">
+								<h6>Your Questions About Life Under Coronavirus Answered Here</h6>
+								<span>MARCH 19, 2020</span>
+							</div>
+						</div>
+					</div>
+					<div class="facts-details">
+						<div class="facts-de-item1 facts-de">
+							<div class="facts-de-img">
+								<a href=""><img src="images/26-696x464.jpg" width="95px;" title="The Coronavirus Epidemic Might Be Much Worse Than We Thought"></a>
+							</div>
+							<div class="facts-right">
+								<h6>The Coronavirus Epidemic Might Be Much Worse Than We Thought</h6>
+								<span>MARCH 19, 2020</span>
+							</div>
+						</div>
+					</div>
+					<div class="facts-details">
+						<div class="facts-de-item1 facts-de">
+							<div class="facts-de-img">
+								<a href=""><img src="images/1-696x464.jpg" width="95px;" title="Your Questions About Life Under Coronavirus Answered Here"></a>
+							</div>
+							<div class="facts-right">
+								<h6>Your Questions About Life Under Coronavirus Answered Here</h6>
+								<span>MARCH 19, 2020</span>
+							</div>
+						</div>
 					</div>
 
 				</div>
 			</div>
 			<!-- Right Items End -->
-
 		</div>
 	</div>
 </section>

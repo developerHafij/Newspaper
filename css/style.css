@@ -2,7 +2,6 @@
 font-family: 'Poppins', sans-serif;
 font-family: 'Volkhov', serif;
 */
-
 h1,h2,h3,h4,h5,h6{
 	font-family: 'Volkhov', serif;
 }
@@ -90,7 +89,37 @@ span, p{
 .eco-section .emp-left-items .emp-descrip .load-more .fa-angle-down:hover{
 	color: #444;
 }
-.eco-section .emp-right-items .emp-social ul li{
+
+/* ------------------------- */
+.eco-section .emp-right-items .emp-social .emp-soci{
+    display: inline;
+}.eco-section .emp-right-items .emp-social .emp-soci .fa {
+    width: 32%;
+    height: 100px !important;
+    line-height: 100px;
+    text-align: center;
+    background-color: #ddd;
+    color: #fff;
+}.eco-section .emp-right-items .emp-social .emp-fb .fa-facebook{
+    background-color: #516eab;
+    transition: 0.3s ease-in-out;
+}.eco-section .emp-right-items .emp-social .emp-tw .fa-twitter{
+    background-color: #29c5f6;
+    transition: 0.3s ease-in-out;
+}.eco-section .emp-right-items .emp-social .emp-yt .fa-youtube{
+    background-color: #e14e42;
+    transition: 0.3s ease-in-out;
+}.eco-section .emp-right-items .emp-social .emp-fb .fa-facebook:hover{
+    background-color: #365390;
+    cursor: pointer;
+}.eco-section .emp-right-items .emp-social .emp-tw .fa-twitter:hover{
+    background-color: #199bc3;
+    cursor: pointer;
+}.eco-section .emp-right-items .emp-social .emp-yt .fa-youtube:hover{
+    background-color: #c33226;
+    cursor: pointer;
+}
+/*.eco-section .emp-right-items .emp-social ul li{
 	list-style: none;
 	display: inline;
 	background-color: #d2d2d2;
@@ -128,7 +157,7 @@ span, p{
 }
 .eco-section .emp-right-items .emp-social .emp-yt{
     background: #e14e42;
-}
+}*/
 .eco-section .emp-right-items .facts span {
     font-size: 13px;
     background-color: #e43a2c;
@@ -152,7 +181,7 @@ span, p{
 }
 .eco-section .emp-right-items .facts-details img {
     display: flex;
-    width: 35%;
+    width: 30%;
     float: left;
 }.eco-section .emp-right-items .facts-details .facts-right h6 {
     font-size: 13px;
@@ -168,12 +197,14 @@ span, p{
 	font-size: 11px;
     font-weight: 500;
     color: #e82828e8;
-}.eco-section .emp-right-items .facts-details .facts-de-img{
-	
 }.eco-section .emp-right-items .facts-details .facts-right {
     padding: 0 0 0 10px;
     display: flex;
     flex-direction: column;
+}.eco-section .emp-right-items .facts-details .facts-de {
+    display: inline-block;
+}.eco-section .emp-right-items .facts-details{
+    padding: 4px 0;
 }
 
 /* Latest Articles CSS */
@@ -338,7 +369,7 @@ footer .footer-padding .cmn-footer ul a{
     list-style: none;
     display: block;
     color: #fff;
-    transition: 0.2s ease-in-out;
+    transition: 0.1s ease-in-out;
     text-decoration: none;
     font-size: 13px;
     padding: 5px 0;
@@ -358,5 +389,12 @@ footer .footer1 .footer-logo img{
     font-size: 16px;
 }footer .footer1 .social li{
 	display: inline !important;
+}footer .footer-padding .footer4 ul img{
+    float: left;
+    margin-right: 10px;
+    width: 60px;
+}footer .footer-padding .footer4 ul li{
+    padding: 8px 0;
 }
 
+     

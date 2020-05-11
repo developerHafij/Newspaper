@@ -36,9 +36,9 @@
 				<div class="col-md-3 cmn-footer footer4">
 					<h6>Popular Articles</h6>
 					<ul>
-						<a href=""><li>CORONAVIRUS</li></a>
-						<a href=""><li>IMPACT</li></a>
-						<a href=""><li>TREATMENT</li></a>
+						<a href=""><li><img src="images/1-696x464.jpg"> What Will You Do If You Start Coughing?</li></a>
+						<a href=""><li><img src="images/54-696x464.jpg"> Coronavirus and a Baby on the Way</li></a>
+						<a href=""><li><img src="images/36-696x464.jpg"> What Will You Do If You Start Coughing?</li></a>
 					</ul>
 				</div>
 			</div>
