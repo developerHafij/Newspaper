@@ -90,6 +90,40 @@ span, p{
 	color: #444;
 }
 
+/* Drop Down CSS Start */
+.eco-section .emp-title .dropbtn {
+    background-color: transparent;
+    color: #3a3939;
+}
+.eco-section .emp-title .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+    right: 0 !important;
+    top: 22px;
+    width: 115px;
+    padding: 15px 0;
+}
+.eco-section .emp-title .dropdown:hover .dropdown-content {
+    display: block;
+}
+.eco-section .emp-title .dropdown-content a {
+    color: #444444;
+    padding: 0px 22px;
+    text-decoration: none;
+    display: block;
+    font-size: 13px;
+    text-align: right;
+    font-weight: 400;
+}
+.eco-section .emp-title .dropdown-content a:hover {
+    background-color: #ddd;
+    color: #e14e42;
+}
+/* Drop Down CSS End */
+
 /* ------------------------- */
 .eco-section .emp-right-items .emp-social .emp-soci{
     display: inline;
@@ -158,6 +192,7 @@ span, p{
 .eco-section .emp-right-items .emp-social .emp-yt{
     background: #e14e42;
 }*/
+
 .eco-section .emp-right-items .facts span {
     font-size: 13px;
     background-color: #e43a2c;
@@ -398,3 +433,11 @@ footer .footer1 .footer-logo img{
 }
 
      
+
+
+
+
+
+
+
+

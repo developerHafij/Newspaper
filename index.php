@@ -16,7 +16,18 @@
 						<h2>ECONOMICAL IMPACT</h2>
 					</div>
 					<div class="emp-border"></div>
-					<p class="emp-filter">Others <i class="fa fa-angle-down"></i></p>
+					<!-- Drop Down Menu Start -->
+					<div class="dropdown">
+						<p class="emp-filter dropbtn">Others <i class="fa fa-angle-down"></i></p>
+						<div class="dropdown-content">
+						    <a href="#">Supplies</a>
+						    <a href="#">Behaviour</a>
+						    <a href="#">Vaccine</a>
+						    <a href="#">Medicine</a>
+						    <a href="#">Treatment</a>
+						  </div>
+					</div>
+					<!-- Drop Down Menu End -->
 				</div>
 				<div class="row emp-descrip">
 					<div class="col-md-6 left-des">
